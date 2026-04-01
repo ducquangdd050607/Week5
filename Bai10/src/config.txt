@@ -1,0 +1,3 @@
+username = admin_quang
+timeout = 30
+maxConnections = 5

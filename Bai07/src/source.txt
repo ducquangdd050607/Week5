@@ -1,0 +1,6 @@
+Xin chao Quang! Day la tep van ban mau de kiem thu Bai 2.
+Chuong trinh cua ban se su dung BufferedReader de doc tung dong cua tep nay.
+Dong thu 3: File I/O trong Java thuc su rat quan trong.
+
+Dong thu 5 (sau mot dong trong): Hay kiem tra xem file dich co giong het file nay khong nhe.
+Dong cuoi cung: Chuc ban test code thanh cong!
