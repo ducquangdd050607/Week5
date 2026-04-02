@@ -1,4 +1,4 @@
-public class LibraryManagementSystem {
+public class Main {
     // Hàm dùng chung để test các chức năng (Do chung interface nên thoải mái xài các phương thức)
     // Dấu "..." sau khi khai báo kiểu dữ liệu cho phép truyền vào mảng bao nhiêu phần tử tùy thích mà không cần phải tự tạo một mảng từ trước --> linh hoạt hơn khi chưa rõ mảng có bao nhiêu phần tử (Java sẽ tự nhận diện và gộp tất cả vào 1 mảng)
     public static void testLibrary(LibraryManager lib, Book... books) {

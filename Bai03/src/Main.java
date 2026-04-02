@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.Map;
 
-public class WordFrequencyCounter {
+public class Main {
     public static void main(String[] args) {
         // Đoạn văn bản mẫu (Tự sinh test)
         String text = "Java is great. Java is fast! Learning Java is fun, isn't it? Python is also great, but Java is Java.";
